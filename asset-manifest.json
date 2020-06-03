@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portAli/home/static/css/main.3f8b9011.chunk.css",
+    "main.js": "/portAli/home/static/js/main.1532614d.chunk.js",
+    "main.js.map": "/portAli/home/static/js/main.1532614d.chunk.js.map",
+    "runtime~main.js": "/portAli/home/static/js/runtime~main.103c76d4.js",
+    "runtime~main.js.map": "/portAli/home/static/js/runtime~main.103c76d4.js.map",
+    "static/css/2.510409cd.chunk.css": "/portAli/home/static/css/2.510409cd.chunk.css",
+    "static/js/2.e405aab9.chunk.js": "/portAli/home/static/js/2.e405aab9.chunk.js",
+    "static/js/2.e405aab9.chunk.js.map": "/portAli/home/static/js/2.e405aab9.chunk.js.map",
+    "index.html": "/portAli/home/index.html",
+    "precache-manifest.2a7c2ed7d1a86cdc04317e91b2eb0cdf.js": "/portAli/home/precache-manifest.2a7c2ed7d1a86cdc04317e91b2eb0cdf.js",
+    "service-worker.js": "/portAli/home/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/portAli/home/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.3f8b9011.chunk.css.map": "/portAli/home/static/css/main.3f8b9011.chunk.css.map",
+    "static/media/bullsvsbears.jpg": "/portAli/home/static/media/bullsvsbears.fd38e7b9.jpg",
+    "static/media/devgrub.png": "/portAli/home/static/media/devgrub.bf79b675.png",
+    "static/media/evverest.png": "/portAli/home/static/media/evverest.3da49c68.png",
+    "static/media/linkedin.png": "/portAli/home/static/media/linkedin.1e7e03c4.png",
+    "static/media/lstm.png": "/portAli/home/static/media/lstm.190313a5.png"
+  }
+}
