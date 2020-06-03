@@ -16,22 +16,22 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: 'Garrett Love',
+      title: 'Alistair Metin',
       headerLinks: [
         { title: 'Home', path: '/' },
         { title: 'About', path: '/about' },
         { title: 'Contact', path: '/contact' }
       ],
       home: {
-        title: 'Be Relentless',
-        subTitle: 'Projects the make a difference',
-        text: 'Checkout my projects below'
+        title: 'Power!',
+        subTitle: 'Data Driven Software Engineer',
+        text: 'Interact with these cards to see my projects'
       },
       about: {
-        title: 'About Me'
+        title: 'Who am I?'
       },
       contact: {
-        title: 'Let\'s Talk'
+        title: 'Reach out to me'
       }
     }
   }
@@ -42,7 +42,7 @@ class App extends React.Component {
         <Container className="p-0" fluid={true}>
           
           <Navbar className="border-bottom" bg="transparent" expand="lg">
-            <Navbar.Brand>Garrett Love</Navbar.Brand>
+            <Navbar.Brand>Alistair Metin</Navbar.Brand>
 
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
