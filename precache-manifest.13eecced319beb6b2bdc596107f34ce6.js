@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37fa366d1d4f3ce021d363c89066e140",
+    "revision": "fb62efb6643957ba35dddf5c552be881",
     "url": "/portAli/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portAli/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "fe704ff8da8dcda77df3",
+    "revision": "2a0ed97fd0b445293b7c",
     "url": "/portAli/static/css/main.d7b954e4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portAli/static/js/2.6a78f766.chunk.js"
   },
   {
-    "revision": "fe704ff8da8dcda77df3",
-    "url": "/portAli/static/js/main.4ee73030.chunk.js"
+    "revision": "2a0ed97fd0b445293b7c",
+    "url": "/portAli/static/js/main.8ea3eac5.chunk.js"
   },
   {
     "revision": "93c1e24ec41cf9045e03",

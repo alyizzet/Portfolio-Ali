@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portAli/precache-manifest.8be375bb3249301a92984e696b99adba.js"
+  "/portAli/precache-manifest.13eecced319beb6b2bdc596107f34ce6.js"
 );
 
 self.addEventListener('message', (event) => {
