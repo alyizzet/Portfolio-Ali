@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/portAli/static/css/main.3f8b9011.chunk.css",
-    "main.js": "/portAli/static/js/main.372d0bbc.chunk.js",
-    "main.js.map": "/portAli/static/js/main.372d0bbc.chunk.js.map",
+    "main.css": "/portAli/static/css/main.d7b954e4.chunk.css",
+    "main.js": "/portAli/static/js/main.4ee73030.chunk.js",
+    "main.js.map": "/portAli/static/js/main.4ee73030.chunk.js.map",
     "runtime~main.js": "/portAli/static/js/runtime~main.4df3c676.js",
     "runtime~main.js.map": "/portAli/static/js/runtime~main.4df3c676.js.map",
     "static/css/2.510409cd.chunk.css": "/portAli/static/css/2.510409cd.chunk.css",
-    "static/js/2.e405aab9.chunk.js": "/portAli/static/js/2.e405aab9.chunk.js",
-    "static/js/2.e405aab9.chunk.js.map": "/portAli/static/js/2.e405aab9.chunk.js.map",
+    "static/js/2.6a78f766.chunk.js": "/portAli/static/js/2.6a78f766.chunk.js",
+    "static/js/2.6a78f766.chunk.js.map": "/portAli/static/js/2.6a78f766.chunk.js.map",
     "index.html": "/portAli/index.html",
-    "precache-manifest.b74068fa803d1b452f3a268005f76d2b.js": "/portAli/precache-manifest.b74068fa803d1b452f3a268005f76d2b.js",
+    "precache-manifest.8be375bb3249301a92984e696b99adba.js": "/portAli/precache-manifest.8be375bb3249301a92984e696b99adba.js",
     "service-worker.js": "/portAli/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/portAli/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.3f8b9011.chunk.css.map": "/portAli/static/css/main.3f8b9011.chunk.css.map",
+    "static/css/main.d7b954e4.chunk.css.map": "/portAli/static/css/main.d7b954e4.chunk.css.map",
     "static/media/bullsvsbears.jpg": "/portAli/static/media/bullsvsbears.fd38e7b9.jpg",
-    "static/media/devgrub.png": "/portAli/static/media/devgrub.bf79b675.png",
     "static/media/evverest.png": "/portAli/static/media/evverest.3da49c68.png",
+    "static/media/gödel.png": "/portAli/static/media/gödel.bdc93385.png",
     "static/media/linkedin.png": "/portAli/static/media/linkedin.1e7e03c4.png",
-    "static/media/lstm.png": "/portAli/static/media/lstm.190313a5.png"
+    "static/media/lstm.png": "/portAli/static/media/lstm.7baedb65.png",
+    "static/media/netlogo.png": "/portAli/static/media/netlogo.b15cd4f9.png",
+    "static/media/react.png": "/portAli/static/media/react.e806f5fd.png"
   }
 }
