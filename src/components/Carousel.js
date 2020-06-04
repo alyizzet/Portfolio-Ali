@@ -3,10 +3,13 @@ import React from 'react';
 import Card from '../components/Card';
 
 import bullsvsbears from '../assets/images/bullsvsbears.jpg'
-import devgrub from '../assets/images/devgrub.png';
+import gödel from '../assets/images/gödel.png';
 import lstm from '../assets/images/lstm.png';
 import linkedin from '../assets/images/linkedin.png';
 import evverest from '../assets/images/evverest.png';
+import react_logo from '../assets/images/react.png';
+import netlogo from '../assets/images/netlogo.png';
+
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -20,22 +23,22 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Gödel Machine',
                     subTitle: 'Intelligent Media Buyer',
-                    imgSrc: devgrub,
-                    link: 'https://devgrub.com',
+                    imgSrc: gödel,
+                    link: 'https://github.com/alyizzet/OrionLeadData/',
                     selected: false
                 },
                 {
                     id: 1,
-                    title: 'Alistair Metin',
+                    title: 'CV Card',
                     subTitle: 'LinkedIn',
                     imgSrc: linkedin,
-                    link: 'https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw',
+                    link: 'https://uk.linkedin.com/in/ali-izzet-metin-71700617a',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: 'LSTM - Recurrent Neural Networks',
-                    subTitle: 'Forecasting Electricity Futures with High Accuracy - My Bachelors Thesis',
+                    title: 'Futures Price Forecaster',
+                    subTitle: 'My Bachelors Thesis',
                     imgSrc: lstm,
                     link: 'https://github.com/alyizzet/LSTM-ELK',
                     selected: false
@@ -43,33 +46,33 @@ class Carousel extends React.Component {
                 {
                     id: 3,
                     title: 'Agent Based Modelling ',
-                    subTitle: 'Programmatic Advertising Landscape is simulated  in this project using Netlogo',
-                    imgSrc: evverest,
+                    subTitle: 'Digital Advertising Simulations',
+                    imgSrc: netlogo,
                     link: 'https://github.com/garrettlove8/evverest',
                     selected: false
                 },
                 {
                     id: 4,
-                    title: 'Vanilla Javascript Small Projects',
+                    title: 'Vanilla .js Small Projects',
                     subTitle: 'Coming Soon',
                     imgSrc: evverest,
-                    link: 'https://github.com/garrettlove8/evverest',
+                    link:'https://uk.linkedin.com/in/ali-izzet-metin-71700617a', 
                     selected: false
                 },
                 {
                     id: 5,
                     title: 'Portfolio Website',
-                    subTitle: 'This website is one of my the projects in my react.js portfolio',
-                    imgSrc: evverest,
-                    link: 'https://github.com/garrettlove8/evverest',
+                    subTitle: 'React-app Project',
+                    imgSrc: react_logo,
+                    link: 'https://github.com/alyizzet/portAli',
                     selected: false
                 },
                 {
                     id: 6,
-                    title: 'Stock Traders: Bulls vs Bears Game',
+                    title: 'Traders:Bulls vs Bears Game',
                     subTitle: 'Coming Soon...',
                     imgSrc: bullsvsbears,
-                    link: 'https://github.com/garrettlove8/evverest',
+                    link:'https://uk.linkedin.com/in/ali-izzet-metin-71700617a', 
                     selected: false
                 },
 

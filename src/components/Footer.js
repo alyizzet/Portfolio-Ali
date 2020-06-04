@@ -13,7 +13,7 @@ function Footer() {
                         Don't bend, Ascend! 
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                       <span dangerouslySetInnerHTML={{ "__html": "&copy;" }} />  Ali I. M. 2020
+                       <span dangerouslySetInnerHTML={{ "__html": "&copy;" }} />  AIM 2020
                     </Col>
                 </Row>
             </Container>
